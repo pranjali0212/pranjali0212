@@ -2,7 +2,7 @@
 ## 🙋‍♂️ About Me
 -  👋 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranjali Srivstava
 - 👀 I’m interested in Webd
-- 🌱 I’m currently learning Java/ Html|CSS
+- 🌱 I’m currently learning Java/ Html|CSS /C/ CPP
 - 📫 How to reach me through Gmail pranjalisrivastava2000n12@gmail.com
 
 
